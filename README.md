@@ -8,7 +8,7 @@
 
 <p align="center">
 
-  <a href="https://github.com/NathiMT/Social-Tree/commits/master">
+  <a href="https://github.com/NathiMT/Social-Tree/commits/main">
       <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/NathiMT/Social-Tree/main">
   </a>
 
