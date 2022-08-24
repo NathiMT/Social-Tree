@@ -9,7 +9,7 @@
 <p align="center">
 
   <a href="https://github.com/NathiMT/Social-Tree/commits/master">
-      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/NathiMT/Social-Tree">
+      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/NathiMT/Social-Tree/main">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -26,11 +26,11 @@
 
 ## 📌 Conteúdo
 
-   * [Sobre o projeto](#-sobre-o-projeto)
-   * [Resultado](#-resultado)
-   * [Tecnologias](#-tecnologias)
-   * [Autor](#-autor)
-   * [Licença](#-licença)
+   * <a href="#-sobre-o-projeto">Sobre</a>
+   * <a href="#-resultado">Resultado</a>
+   * <a href="#-tecnologias">Tecnologias</a>
+   * <a href="#-autor">Autor</a>
+   * <a href="#user-content--licença">Licença</a>
 
 ## 💻 Sobre o projeto
 
@@ -50,10 +50,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## ✏️ Autor
+## 🦸 Autor
 
 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/NathiMT" width="100px;" alt="Foto de NathiMT"/>
-<sub><b>Nathália Menegol Teles</b></sub></a> <a href="https://github.com/NathiMT">🚀</a>
+<sub><b>Nathália Menegol Teles</b></sub></a> <a href="https://github.com/NathiMT"></a>
 <br>
 <br>
 <a href="https://www.linkedin.com/in/nath%C3%A1lia-menegol-teles-3a66b31a0/">
